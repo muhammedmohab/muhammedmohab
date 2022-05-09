@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS**
 
-- 💬 Ask me about **Laravel, Vue and**
+- 💬 Ask me about **Laravel, Vue**
 
 - 📫 How to reach me **muhammed.mohab@gmail.com**
 
